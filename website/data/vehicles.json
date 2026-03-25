@@ -1,0 +1,302 @@
+[
+  {
+    "id": "honda-vision",
+    "name": "Honda Vision",
+    "type": "motorbike",
+    "brand": "Honda",
+    "image": "https://cdn.honda.com.vn/motorbikes/September2023/bKKlG7JFliGSbOLJDLNR.png",
+    "tank_capacity": 4.9,
+    "fuel_consumption": 1.87,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "honda-air-blade",
+    "name": "Honda Air Blade 125",
+    "type": "motorbike",
+    "brand": "Honda",
+    "image": "https://cdn.honda.com.vn/motorbikes/September2023/fXPPNYDEf3lXHJfr2xkm.png",
+    "tank_capacity": 4.4,
+    "fuel_consumption": 2.23,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "honda-sh-125",
+    "name": "Honda SH 125i",
+    "type": "motorbike",
+    "brand": "Honda",
+    "image": "https://cdn.honda.com.vn/motorbikes/September2023/ArFhGXnA8YLiU5VDqXRd.png",
+    "tank_capacity": 7.0,
+    "fuel_consumption": 2.46,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "honda-lead-125",
+    "name": "Honda Lead 125",
+    "type": "motorbike",
+    "brand": "Honda",
+    "image": "https://cdn.honda.com.vn/motorbikes/September2023/RqrktLxHVZ3K5XD4rsxr.png",
+    "tank_capacity": 5.4,
+    "fuel_consumption": 2.02,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "honda-wave-alpha",
+    "name": "Honda Wave Alpha 110",
+    "type": "motorbike",
+    "brand": "Honda",
+    "image": "https://cdn.honda.com.vn/motorbikes/September2023/tPRYD32jYS0oJafU2VfP.png",
+    "tank_capacity": 3.7,
+    "fuel_consumption": 1.72,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "honda-wave-rsx",
+    "name": "Honda Wave RSX FI",
+    "type": "motorbike",
+    "brand": "Honda",
+    "image": "https://cdn.honda.com.vn/motorbikes/September2023/n3JiOlGAb0CQxXdG19ER.png",
+    "tank_capacity": 3.7,
+    "fuel_consumption": 1.56,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "honda-winner-x",
+    "name": "Honda Winner X",
+    "type": "motorbike",
+    "brand": "Honda",
+    "image": "https://cdn.honda.com.vn/motorbikes/September2023/GJ8EKSh0EXuqlg8YkjC8.png",
+    "tank_capacity": 4.5,
+    "fuel_consumption": 2.10,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "honda-sh-mode",
+    "name": "Honda SH Mode 125",
+    "type": "motorbike",
+    "brand": "Honda",
+    "image": "https://cdn.honda.com.vn/motorbikes/September2023/hq5eFhQDc3bQEMfjnJmY.png",
+    "tank_capacity": 5.5,
+    "fuel_consumption": 1.90,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "yamaha-exciter",
+    "name": "Yamaha Exciter 155",
+    "type": "motorbike",
+    "brand": "Yamaha",
+    "image": "https://yamaha-motor.com.vn/wp/wp-content/uploads/2023/05/Exciter-155-VVA-GP-%E2%80%93-Xam-1.png",
+    "tank_capacity": 4.6,
+    "fuel_consumption": 2.22,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "yamaha-sirius",
+    "name": "Yamaha Sirius FI",
+    "type": "motorbike",
+    "brand": "Yamaha",
+    "image": "https://yamaha-motor.com.vn/wp/wp-content/uploads/2021/05/Sirius-Xanh.png",
+    "tank_capacity": 4.2,
+    "fuel_consumption": 1.57,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "yamaha-grande",
+    "name": "Yamaha Grande",
+    "type": "motorbike",
+    "brand": "Yamaha",
+    "image": "https://yamaha-motor.com.vn/wp/wp-content/uploads/2022/08/Grande-Xanh-1.png",
+    "tank_capacity": 4.4,
+    "fuel_consumption": 1.69,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "yamaha-nvx-155",
+    "name": "Yamaha NVX 155",
+    "type": "motorbike",
+    "brand": "Yamaha",
+    "image": "https://yamaha-motor.com.vn/wp/wp-content/uploads/2023/02/NVX-155-VVA-Den-Nham-1-1.png",
+    "tank_capacity": 6.6,
+    "fuel_consumption": 2.23,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "yamaha-janus",
+    "name": "Yamaha Janus",
+    "type": "motorbike",
+    "brand": "Yamaha",
+    "image": "https://yamaha-motor.com.vn/wp/wp-content/uploads/2021/11/Janus-Xam-1.png",
+    "tank_capacity": 4.2,
+    "fuel_consumption": 1.87,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "honda-future-125",
+    "name": "Honda Future 125 FI",
+    "type": "motorbike",
+    "brand": "Honda",
+    "image": "https://cdn.honda.com.vn/motorbikes/September2023/2RyET0lSLLXR1X39TFi8.png",
+    "tank_capacity": 3.7,
+    "fuel_consumption": 1.47,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "yamaha-freego",
+    "name": "Yamaha FreeGo 125",
+    "type": "motorbike",
+    "brand": "Yamaha",
+    "image": "https://yamaha-motor.com.vn/wp/wp-content/uploads/2022/10/FreeGo-Trang-1.png",
+    "tank_capacity": 5.1,
+    "fuel_consumption": 1.97,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "toyota-vios",
+    "name": "Toyota Vios",
+    "type": "car",
+    "brand": "Toyota",
+    "image": "https://www.toyota.com.vn/media/4228/1500_vios_01_w1.png",
+    "tank_capacity": 42,
+    "fuel_consumption": 5.48,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "toyota-camry",
+    "name": "Toyota Camry",
+    "type": "car",
+    "brand": "Toyota",
+    "image": "https://www.toyota.com.vn/media/4392/1500_camry_01-w1.png",
+    "tank_capacity": 50,
+    "fuel_consumption": 4.40,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "hyundai-accent",
+    "name": "Hyundai Accent",
+    "type": "car",
+    "brand": "Hyundai",
+    "image": "https://www.hyundai.com/content/dam/hyundai/vn/images/find-a-car/accent/2024/exterior/accent-2024-exterior-1.png",
+    "tank_capacity": 43,
+    "fuel_consumption": 5.60,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "mazda-cx5",
+    "name": "Mazda CX-5",
+    "type": "car",
+    "brand": "Mazda",
+    "image": "https://mazdamotors.vn/media/3175/cx5-de-trang.png",
+    "tank_capacity": 56,
+    "fuel_consumption": 6.90,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "mazda-3",
+    "name": "Mazda 3",
+    "type": "car",
+    "brand": "Mazda",
+    "image": "https://mazdamotors.vn/media/3128/mazda3-sedan-trang.png",
+    "tank_capacity": 51,
+    "fuel_consumption": 6.25,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "kia-morning",
+    "name": "Kia Morning",
+    "type": "car",
+    "brand": "Kia",
+    "image": "https://www.kia.com/content/dam/kia/vn/images/discover-kia/morning/exterior/morning-exterior-1.png",
+    "tank_capacity": 35,
+    "fuel_consumption": 5.80,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "kia-seltos",
+    "name": "Kia Seltos",
+    "type": "car",
+    "brand": "Kia",
+    "image": "https://www.kia.com/content/dam/kia/vn/images/discover-kia/seltos/exterior/seltos-exterior-1.png",
+    "tank_capacity": 50,
+    "fuel_consumption": 7.00,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "mitsubishi-xpander",
+    "name": "Mitsubishi Xpander",
+    "type": "car",
+    "brand": "Mitsubishi",
+    "image": "https://www.mitsubishi-motors.com.vn/w/assets/uploads/Xpander_2023_ngoai_that_trang.png",
+    "tank_capacity": 45,
+    "fuel_consumption": 6.60,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "ford-ranger",
+    "name": "Ford Ranger",
+    "type": "car",
+    "brand": "Ford",
+    "image": "https://www.ford.com.vn/content/dam/Ford/website-assets/ap/vn/models/ranger/gallery/exterior/ranger-exterior-1.png",
+    "tank_capacity": 80,
+    "fuel_consumption": 8.50,
+    "recommended_fuel": "DO"
+  },
+  {
+    "id": "honda-city",
+    "name": "Honda City",
+    "type": "car",
+    "brand": "Honda",
+    "image": "https://www.honda.com.vn/o-to/assets/images/city-2023/city-trang.png",
+    "tank_capacity": 40,
+    "fuel_consumption": 5.70,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "honda-crv",
+    "name": "Honda CR-V",
+    "type": "car",
+    "brand": "Honda",
+    "image": "https://www.honda.com.vn/o-to/assets/images/crv-2023/crv-trang.png",
+    "tank_capacity": 53,
+    "fuel_consumption": 6.90,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "toyota-fortuner",
+    "name": "Toyota Fortuner",
+    "type": "car",
+    "brand": "Toyota",
+    "image": "https://www.toyota.com.vn/media/4162/1500_fortuner_01_w1.png",
+    "tank_capacity": 80,
+    "fuel_consumption": 8.40,
+    "recommended_fuel": "DO"
+  },
+  {
+    "id": "vinfast-vf5",
+    "name": "VinFast VF 5",
+    "type": "car",
+    "brand": "VinFast",
+    "image": "https://shop.vinfast.vn/on/demandware.static/-/Sites-vinfast_master/default/vw9fb4ebcb/VF5/Colors/VF5-xanh.png",
+    "tank_capacity": 0,
+    "fuel_consumption": 0,
+    "recommended_fuel": "Điện"
+  },
+  {
+    "id": "toyota-corolla-cross",
+    "name": "Toyota Corolla Cross",
+    "type": "car",
+    "brand": "Toyota",
+    "image": "https://www.toyota.com.vn/media/4384/1500_cc_01_w1.png",
+    "tank_capacity": 36,
+    "fuel_consumption": 4.30,
+    "recommended_fuel": "RON 95"
+  },
+  {
+    "id": "hyundai-tucson",
+    "name": "Hyundai Tucson",
+    "type": "car",
+    "brand": "Hyundai",
+    "image": "https://www.hyundai.com/content/dam/hyundai/vn/images/find-a-car/tucson/2024/exterior/tucson-2024-exterior-1.png",
+    "tank_capacity": 54,
+    "fuel_consumption": 7.50,
+    "recommended_fuel": "RON 95"
+  }
+]
